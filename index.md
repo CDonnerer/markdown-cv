@@ -2,27 +2,33 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Christian Donnerer
+Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="christian.donnerer@gmail.com">christian.donnerer@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+`Sep 2020-Now`
+Data Science
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+A bunch of projects
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+So many
+
+
+## Previously
+
+`1654-1660`
+__The King's School, Grantham.__
 
 
 ## Education
@@ -58,7 +64,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +93,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
